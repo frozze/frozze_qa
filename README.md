@@ -5,4 +5,5 @@
 ---
 
 
-[Пример моего тестового задания](https://testfozze.atlassian.net/jira/software/c/projects/TEST/boards/1?selectedIssue=TEST-1&atlOrigin=eyJpIjoiNWM0Mzk1ODgyY2U5NGQ2Mjg2YWFlYzJiNTg2ODVmMmIiLCJwIjoiaiJ9)
+[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1s9lJcg4Iwn_4xNdTt4IPJ9acMaOzmIEHhMekqc8cJn0/edit?usp=sharing)
+
